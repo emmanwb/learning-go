@@ -1,6 +1,6 @@
 # Learning Go
 
-## Course From Geek Time
+## Courses From Geek Time
 - [Go: From Zero to Hero](https://time.geekbang.org/course/detail/100024001-91302)
 
 - [36 Talks for Core Go](https://time.geekbang.org/column/intro/112)
